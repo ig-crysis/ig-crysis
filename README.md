@@ -22,7 +22,8 @@ https://ig-crysis.github.io/Portfolio/
 
 - 📫 How to reach me **workwithanant7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/153fn8QvJpsFOyVH-ymTmTpdx6sRa30p-/view?usp=drivesdk](https://drive.google.com/file/d/153fn8QvJpsFOyVH-ymTmTpdx6sRa30p-/view?usp=drivesdk)
+- 📄 Know about my experiences
+[https://drive.google.com/file/d/153fn8QvJpsFOyVH-ymTmTpdx6sRa30p-/view?usp=drivesdk](https://drive.google.com/file/d/112L9hiVquN9PcTL_yBe_u0UqNQV940K8/view?usp=drivesdk))
 
 - ⚡ Fun fact **I got 336th Rank in all-over India in Amazon AI/ML 2024 Pre-season Qualifier with zero initial knowledge of Machine Learning but learnt through their platform itself and got the rank(World Wide Rank:1142)**
 
