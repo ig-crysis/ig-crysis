@@ -16,9 +16,9 @@ https://ig-crysis.github.io/Portfolio/
 
 - 👨‍💻 All of my projects are available at [https://github.com/ig-crysis](https://github.com/ig-crysis)
 
-- 👔 My LinkedIn profile [https://www.linkedin.com/in/anant-bhatnagar-b2884b219](https://www.linkedin.com/in/anant-bhatnagar7)
+- 👔 My LinkedIn profile [https://www.linkedin.com/in/anant-bhatnagar7](https://www.linkedin.com/in/anant-bhatnagar7)
 
-- 💬 Ask me about **Full-Stack, Frontend, GenAI, Python**
+- 💬 Ask me about **Full-Stack, Frontend, GenAI**
 
 - 📫 How to reach me **workwithanant7@gmail.com**
 
