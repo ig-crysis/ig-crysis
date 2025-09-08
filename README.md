@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **any opportunities for executing my skills on projects**
 
 - My Portfolio
-https://ig-crysis.github.io/Portfolio/
+https://crysis.live
 
 - 👨‍💻 All of my projects are available at [https://github.com/ig-crysis](https://github.com/ig-crysis)
 
